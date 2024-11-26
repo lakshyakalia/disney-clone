@@ -97,7 +97,7 @@ const Description = styled.p`
 
 const CTALogoTwo = styled.img`
     max-width: 600px;
-    margin-botton: 20px;
+    margin-bottom: 20px;
     vertical-align: bottom;
     width: 100%;
 
