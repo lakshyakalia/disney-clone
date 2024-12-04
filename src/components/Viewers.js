@@ -46,7 +46,7 @@ const Container = styled.div`
     grid-template-columns: repeat(5, minmax(0, 1fr));
 
 
-    @media (max-screen: 768px){
+    @media (max-width: 768px){
         grid-template-columns: repeat(1, minmax(0, 1fr));
     }
 `;
