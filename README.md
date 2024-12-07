@@ -3,6 +3,8 @@
 
 A Disney+ Clone built with modern web technologies, mimicking the popular streaming platform's design and functionality. This application features dynamic content, responsive design, and state management with Redux, along with Firebase for backend integration.
 
+![Disney+ Screenshot](./src/assets/images/disneyplus-screenshot.png)
+
 ## 🚀 Features  
 - **Home Page:** Display of trending movies and shows in an interactive and responsive interface.  
 - **Google OAuth Authentication:** Secure sign-in functionality using Google OAuth via Firebase.  
@@ -18,11 +20,8 @@ A Disney+ Clone built with modern web technologies, mimicking the popular stream
 - **Backend:** Firebase (for authentication, database, and hosting)  
 - **Authentication:** Google OAuth with Firebase  
 
-## 📸 Screenshot
-    ![Disney+ Screenshot](./src/assets/images/disneyplus-screenshot.png)
-
 ## 📸 Demo  
-    Deployment URL : https://disneyplus-clone-b7b4a.web.app/  
+Deployment URL : https://disneyplus-clone-b7b4a.web.app/  
 
 ## 🏗️ Installation and Setup  
 1. Clone the repository:  
