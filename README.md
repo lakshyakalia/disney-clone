@@ -21,7 +21,8 @@ A Disney+ Clone built with modern web technologies, mimicking the popular stream
 - **Authentication:** Google OAuth with Firebase  
 
 ## 📸 Demo  
-Deployment URL : https://disneyplus-clone-b7b4a.web.app/  
+Check out the live demo of the website here:  
+[Disney+ Clone Website Demo](https://disneyplus-clone-b7b4a.web.app/) 
 
 ## 🏗️ Installation and Setup  
 1. Clone the repository:  
